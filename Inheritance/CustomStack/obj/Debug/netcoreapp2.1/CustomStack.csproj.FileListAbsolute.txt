@@ -1,0 +1,11 @@
+D:\Programming\Project's\Inheritance\Inheritance\CustomStack\bin\Debug\netcoreapp2.1\CustomStack.deps.json
+D:\Programming\Project's\Inheritance\Inheritance\CustomStack\bin\Debug\netcoreapp2.1\CustomStack.runtimeconfig.json
+D:\Programming\Project's\Inheritance\Inheritance\CustomStack\bin\Debug\netcoreapp2.1\CustomStack.runtimeconfig.dev.json
+D:\Programming\Project's\Inheritance\Inheritance\CustomStack\bin\Debug\netcoreapp2.1\CustomStack.dll
+D:\Programming\Project's\Inheritance\Inheritance\CustomStack\bin\Debug\netcoreapp2.1\CustomStack.pdb
+D:\Programming\Project's\Inheritance\Inheritance\CustomStack\obj\Debug\netcoreapp2.1\CustomStack.csprojAssemblyReference.cache
+D:\Programming\Project's\Inheritance\Inheritance\CustomStack\obj\Debug\netcoreapp2.1\CustomStack.csproj.CoreCompileInputs.cache
+D:\Programming\Project's\Inheritance\Inheritance\CustomStack\obj\Debug\netcoreapp2.1\CustomStack.AssemblyInfoInputs.cache
+D:\Programming\Project's\Inheritance\Inheritance\CustomStack\obj\Debug\netcoreapp2.1\CustomStack.AssemblyInfo.cs
+D:\Programming\Project's\Inheritance\Inheritance\CustomStack\obj\Debug\netcoreapp2.1\CustomStack.dll
+D:\Programming\Project's\Inheritance\Inheritance\CustomStack\obj\Debug\netcoreapp2.1\CustomStack.pdb
