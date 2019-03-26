@@ -1,0 +1,10 @@
+D:\Programming\Project's\Inheritance\Inheritance\01 Persons\bin\Debug\netcoreapp2.1\01 Persons.deps.json
+D:\Programming\Project's\Inheritance\Inheritance\01 Persons\bin\Debug\netcoreapp2.1\01 Persons.runtimeconfig.json
+D:\Programming\Project's\Inheritance\Inheritance\01 Persons\bin\Debug\netcoreapp2.1\01 Persons.runtimeconfig.dev.json
+D:\Programming\Project's\Inheritance\Inheritance\01 Persons\bin\Debug\netcoreapp2.1\01 Persons.dll
+D:\Programming\Project's\Inheritance\Inheritance\01 Persons\bin\Debug\netcoreapp2.1\01 Persons.pdb
+D:\Programming\Project's\Inheritance\Inheritance\01 Persons\obj\Debug\netcoreapp2.1\01 Persons.csproj.CoreCompileInputs.cache
+D:\Programming\Project's\Inheritance\Inheritance\01 Persons\obj\Debug\netcoreapp2.1\01 Persons.AssemblyInfoInputs.cache
+D:\Programming\Project's\Inheritance\Inheritance\01 Persons\obj\Debug\netcoreapp2.1\01 Persons.AssemblyInfo.cs
+D:\Programming\Project's\Inheritance\Inheritance\01 Persons\obj\Debug\netcoreapp2.1\01 Persons.dll
+D:\Programming\Project's\Inheritance\Inheritance\01 Persons\obj\Debug\netcoreapp2.1\01 Persons.pdb
